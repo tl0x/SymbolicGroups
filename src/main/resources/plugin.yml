@@ -1,0 +1,7 @@
+name: SymbolicGroups
+version: '${project.version}'
+main: me.tl0x.symbolicgroups.SymbolicGroups
+api-version: '1.20'
+commands:
+  group:
+    description: The main command for SymbolicGroups
